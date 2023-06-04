@@ -1,2 +1,2 @@
-# FitMe-Style--an-e-commerce-website
+# FitMe-Style-E-Commerce-Website
 Using html, CSS and JavaScript
